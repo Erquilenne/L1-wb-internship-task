@@ -21,7 +21,12 @@ import (
 	// "L1-wb-internship-task/task18"
 	// "L1-wb-internship-task/task19"
 	// "L1-wb-internship-task/task20"
-	"L1-wb-internship-task/task21"
+	// "L1-wb-internship-task/task21"
+	// "L1-wb-internship-task/task22"
+	// "L1-wb-internship-task/task23"
+	// "L1-wb-internship-task/task24"
+	// "L1-wb-internship-task/task25"
+	"L1-wb-internship-task/task26"
 )
 
 func main() {
@@ -45,5 +50,10 @@ func main() {
 	// task18.Run()
 	// task19.Run()
 	// task20.Run()
-	task21.Run()
+	// task21.Run()
+	// task22.Run()
+	// task23.Run()
+	// task24.Run()
+	// task25.Run()
+	task26.Run()
 }
